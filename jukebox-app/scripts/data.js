@@ -1,6 +1,6 @@
 // Data module for songs
 export const songs = [
-  { title: '01 i am a strange loop', artist: 'oneish', file: 'assets/audio/01.mp3' },
+  { title: '01 i am a strange loop', artist: 'oneish', file: 'https://drive.google.com/file/d/1UCjK8QZEkqnhqPbppyxmCKYE9Xgnnhqh' },
   { title: '02 incognito', artist: 'oneish', file: 'assets/audio/02.mp3' },
   { title: '03 lsd and the mind of the universe', artist: 'oneish', file: 'assets/audio/03.mp3' },
   { title: '04 storming heaven', artist: 'oneish', file: 'assets/audio/04.mp3' },
