@@ -19,16 +19,16 @@
       <p id="play-all-help" class="sr-only">Starts sequential playback of all songs in order.</p>
     </section>
     
-    <section id="song-section" aria-labelledby="song-list-heading">
-      <h2 id="song-list-heading" class="sr-only">Song Selection</h2>
-      <ul id="song-list" role="listbox" aria-label="Available songs" aria-describedby="song-instructions"></ul>
-      <p id="song-instructions" class="sr-only">Use arrow keys to navigate songs, Enter or Space to play selected song.</p>
-    </section>
-    
     <section id="status-section" aria-labelledby="status-heading" aria-live="polite">
       <h2 id="status-heading" class="sr-only">Status Messages</h2>
       <div id="error-msg" role="alert" aria-live="assertive"></div>
       <div id="current-song" aria-live="polite" aria-label="Currently playing"></div>
+    </section>
+    
+    <section id="song-section" aria-labelledby="song-list-heading">
+      <h2 id="song-list-heading" class="sr-only">Song Selection</h2>
+      <ul id="song-list" role="listbox" aria-label="Available songs" aria-describedby="song-instructions"></ul>
+      <p id="song-instructions" class="sr-only">Use arrow keys to navigate songs, Enter or Space to play selected song.</p>
     </section>
   </main>
   <script type="module" src="scripts/main.js"></script>
