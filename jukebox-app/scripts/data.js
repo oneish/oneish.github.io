@@ -7,7 +7,7 @@ export const songs = [
   { title: '05 the cosmic serpent', artist: 'oneish', file: 'assets/audio/05-the cosmic serpent.wav' },
   { title: '06 real magic', artist: 'oneish', file: 'assets/audio/06-real magic.wav' },
   { title: '07 prometheus rising', artist: 'oneish', file: 'assets/audio/07-prometheus rising.wav' },
-  { title: '08 monsters and magical sticks', artist: 'oneish', file: '08-monsters and magical sticks.wav' },
+  { title: '08 monsters and magical sticks', artist: 'oneish', file: 'assets/audio/08-monsters and magical sticks.wav' },
   { title: '09 astral dynamics', artist: 'oneish', file: 'assets/audio/09-astral dynamics.wav' },
   { title: '10 the holographic universe', artist: 'oneish', file: 'assets/audio/10-the holographic universe.wav' },
   { title: '11 a course in miracles', artist: 'oneish', file: 'assets/audio/11-a course in miracles.wav' }
