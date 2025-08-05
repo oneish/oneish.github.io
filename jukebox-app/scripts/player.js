@@ -30,9 +30,9 @@ export class Player {
       }
     }
 
-    // Cancel sequence mode if manually selecting a song (not from sequence)
+    // Don't cancel sequence mode if manually selecting a song (not from sequence)
     if (!fromSequence) {
-      this.isSequence = false;
+      this.isSequence = true;
     }
 
     // Create new audio element
