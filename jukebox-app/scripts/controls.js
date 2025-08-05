@@ -298,7 +298,7 @@ function updateCurrentSongStatus(song) {
     statusElement.textContent = `Now playing: ${song.title} by ${song.artist}`;
     statusElement.setAttribute('aria-label', `Currently playing ${song.title} by ${song.artist}`);
   } else {
-    statusElement.textContent = ' ';
+    statusElement.textContent = '';
     statusElement.setAttribute('aria-label', 'No song currently playing');
   }
 }
