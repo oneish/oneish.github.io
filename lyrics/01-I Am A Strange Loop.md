@@ -1,6 +1,5 @@
 # I Am A Strange Loop
-## 127 bpm	Am
-
+## ~127 bpm	- Am
 She might be a scientist  
 There is no way of proving this  
 She could be a physicist  
@@ -55,21 +54,19 @@ She leaves me on the floor
 I ask her what to do  
 She takes me home once more  
 
-
-intro  
+**intro**  
 		Am	Am7no5	F#dim/A	F/A  
 	=>	ACE	ACG	ACF#	ACF	<=  
 
-verse  
+**verse**  
 		Am	Em	Dm	Am	Am	Em	Dm	Am  
 		Am	Em	Dm	Am	Am	Em	Dm	Am  
 
-bridge  
+**bridge**  
 		G5	F5	A5	F5	Dm	F  
 
-chorus  
+**chorus**  
 		Em	G	Dm	F  
 		Em	G	Dm	F  
 		Em	G	Dm	F  
 		Am	Am	Am	Am  
-

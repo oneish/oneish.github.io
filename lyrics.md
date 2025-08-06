@@ -1,6 +1,5 @@
 # oneish
 ## you know?
-
 [01-i am a strange loop](https://github.com/oneish/oneish.github.io/blob/main/lyrics/01-I%20Am%20A%20Strange%20Loop.md)  
 [02-incognito](https://github.com/oneish/oneish.github.io/blob/main/lyrics/02-Incognito.md)  
 [03-lsd and the mind of the universe](https://github.com/oneish/oneish.github.io/blob/main/lyrics/03-LSD%20And%20The%20Mind%20Of%20The%20Universe.md)  
