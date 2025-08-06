@@ -54,15 +54,15 @@ The pinnacle of life's progression
 This party is our graduation  
 We are the species storming heaven  
 
-**intro**
+**intro**  
 		Eb	Bb	F	Cm  
 
-**verse**
+**verse**  
 		Gm	Bb	Gm	Bb	Cm	Eb	Bb	Gm	Bb	Gm  
 
-**chorus**
+**chorus**  
 		Bb	Dm	Cm	Eb	Dm	F	Eb	Gm  
 
-**bridge**
+**bridge**  
 		Gm	Bb	Gm	Bb	Cm	Eb	Gm	Bb  
 		Dm	F	Dm	F	Bb	Gm	Bb	Gm  

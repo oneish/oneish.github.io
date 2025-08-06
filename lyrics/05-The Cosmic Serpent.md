@@ -49,14 +49,14 @@ Is passing through my inner eye
 The cosmic serpent climbing high  
 Is showing us how we can fly  
 
-**intro**
+**intro**  
 		Dm	Am	Em	F  
 
-**verse**
+**verse**  
 		Am	Em	Am	F	Am	Em	Am	F  
 		Em	Bm	Em	C	Dm	Am	Dm	Bb  
 		Am	Em	Am	F	Am	Em	Am  
 
-**chorus**
+**chorus**  
 		F5	C5	G5	Dm5	Am5	Em5  
 		F5/C	C	G	Dm	Am	Em	F  

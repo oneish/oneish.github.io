@@ -42,22 +42,22 @@ We hold the cosmos that we see
 Both being born and giving birth  
 To the holographic universe  
 
-**pre**
+**pre**  
 	1:	=>	C	G	Ab	Bb	<=  
 	4:	=>	F	C	Db	Eb	<=  
 	5:	=>	G	D	Eb	F	<=  
 
-**intro**
+**intro**  
 		C	Dm	Em	F  
 
-**verse**
+**verse**  
 		C	C	F	C  
 
-**chorus**
+**chorus**  
 		G	F	C	C  
 		G	F	C	C  
 
-**post**
+**post**  
 	1:	=>	C	G	B	C	<=  
 	4:	=>	F	C	E	F	<=  
 	5:	=>	G	D	F#	G	<=  

@@ -55,18 +55,18 @@ A universe formed of thought reflection
 The world confirms our expectation  
 We've already reached our destination  
 
-**intro**
+**intro**  
 		C	F	C7no3	F	C	F	C7no3	F  
 
-**verse**
+**verse**  
 		C	F	C7no3	F	C	F	C7no3	F  
 		F	Bb	F7no3	Bb	C	F	C7no3	F  
 		G	C	G7no3	C	F	Bb	F7no3	Bb  
 		C	F	C7no3	F	C	F	C7no3	F  
 
-**chorus**
+**chorus**  
 		C	G	F7	C	C	G	F7	C  
 
-**bridge**
+**bridge**  
 		Gm	Fm	Cm	Cm	Gm	Fm	Cm	Cm  
 		Gm	Fm	Cm	Cm	Gm	Fm	Cm	Cm  

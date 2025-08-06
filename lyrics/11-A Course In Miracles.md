@@ -42,11 +42,11 @@ In calm eternity
 Thy will is done  
 Now all is one  
 
-**in/outro**
+**in/outro**  
 		Gm	F	Eb	Bb  
 
-**verse**
+**verse**  
 			Cm	Eb	Dm	F	Cm	Eb	Dm	F  
 
-**chorus**
+**chorus**  
 			Gm	F	Gm	Eb	Gm	F	Gm	Eb  

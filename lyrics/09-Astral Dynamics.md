@@ -42,12 +42,12 @@ The view that we share becomes panoramic
 My mind now at peace and time standing still  
 Remember this moment as I always will  
 
-**intro**
+**intro**  
 		Esus4	Em	Dsus4	Dm  
 
-**verse**
+**verse**  
 		Am	Asus4	Csus2	C	Dsus4	Dm	Asus4	Am  
 		Em	Esus4	Dsus4	Dm	Csus2	C	Asus4	Am  
 
-**chorus**
+**chorus**  
 		G	F	Am	C	G	F	Am	C  

@@ -82,12 +82,12 @@ Someone somewhere is having a laugh
 Just beware of all their tricks  
 All their monsters and magical sticks  
 
-**intro/bridge**
+**intro/bridge**  
 		Bbmaj7	Cm7	Dm7	Cm7  
 
-**verse**
+**verse**  
 			Gm7	Eb	Bb	Eb	Cm7	Ab	Bb	Eb  
 			Gm7	Eb	Bb	Eb	Cm7	Ab	Bb	Eb  
 
-**chorus**
+**chorus**  
 			Bb	F	D7	Eb	Bb	F	D7	Eb  

@@ -54,17 +54,17 @@ The life that I knew has now come to an end
 I let myself go until I'm all gone  
 When this journey is over I shall be reborn  
 
-**intro**
+**intro**  
 		Gm	G	Gm	G  
 
-**verse**
+**verse**  
 		Bb/G	Eb/G	Cm	Gm	Dm	Cm	Gm	Gm  
 
-**bridge**
+**bridge**  
 		Dm	Gm	Dm	Gm	Cm	Fm	Cm	Fm  
 		Dm	Gm	Dm	Gm	Cm	Fm	Cm	Fm  
 
-**chorus**
+**chorus**  
 		G5	C5	D5	G5	G5	D5	C5	G5  
 		G5	C5	D5	G5	G5	D5	C5	G5  
 		D5	G5	A5	D5	D5	A5	G5	D5  

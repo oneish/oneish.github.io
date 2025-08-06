@@ -37,10 +37,10 @@ Replace my old programs aimed just at surviving
 Upgrade to new software of my own devising  
 As the time draws near for Prometheus rising  
 
-**verse**
+**verse**  
 		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
 		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
 		Gm7	Gm  
 
-**chorus**
+**chorus**  
 		Bb/G	Eb/C	F/D	Gm	Bb/G	Eb/C	F/D	Gm  

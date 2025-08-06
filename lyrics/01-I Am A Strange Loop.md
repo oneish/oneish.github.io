@@ -55,12 +55,11 @@ I ask her what to do
 She takes me home once more  
 
 **intro**  
-		Am	Am7no5	F#dim/A	F/A  
 	=>	ACE	ACG	ACF#	ACF	<=  
 
 **verse**  
-		Am	Em	Dm	Am	Am	Em	Dm	Am  
-		Am	Em	Dm	Am	Am	Em	Dm	Am  
+		Am	Em	Dm	Am  
+		Am	Em	Dm	Am  
 
 **bridge**  
 		G5	F5	A5	F5	Dm	F  
