@@ -38,9 +38,9 @@ Upgrade to new software of my own devising
 As the time draws near for Prometheus rising  
 
 **verse**  
-		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
-		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
 		Gm7	Gm  
+		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
+		Gm7	Gm	Gm7	Gm	Gm7	Gm	Gm7	Gm  
 
 **chorus**  
 		Bb/G	Eb/C	F/D	Gm	Bb/G	Eb/C	F/D	Gm  

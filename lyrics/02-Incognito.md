@@ -54,7 +54,7 @@ Surrendering control to my libido
 A stronger attraction than I've ever known  
 A chemical reaction incognito  
 
-**intro**  
+**intro/outro**  
 		C	Dm	Em	F  
 
 **verse**  

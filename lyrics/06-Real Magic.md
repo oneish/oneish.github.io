@@ -70,3 +70,4 @@ We've already reached our destination
 **bridge**  
 		Gm	Fm	Cm	Cm	Gm	Fm	Cm	Cm  
 		Gm	Fm	Cm	Cm	Gm	Fm	Cm	Cm  
+		Gm	Fm	Cm	Cm	Gm	Fm	Cm	Cm  

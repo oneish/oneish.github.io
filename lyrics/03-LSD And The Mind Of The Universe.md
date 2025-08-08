@@ -65,7 +65,7 @@ When this journey is over I shall be reborn
 		Dm	Gm	Dm	Gm	Cm	Fm	Cm	Fm  
 
 **chorus**  
-		G5	C5	D5	G5	G5	D5	C5	G5  
-		G5	C5	D5	G5	G5	D5	C5	G5  
-		D5	G5	A5	D5	D5	A5	G5	D5  
-		G5	C5	D5	G5	G5	D5	C5	G5  
+		Gm	Cm	Dm	Gm	Gm	Dm	Cm	Gm  
+		Gm	Cm	Dm	Gm	Gm	Dm	Cm	Gm  
+		Dm	Gm	Am	Dm	Dm	Am	Gm	Dm  
+		Gm	Cm	Dm	Gm	Gm	Dm	Cm	Gm  
